@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "microservicioeurekas",
+      "type": "com.zamora.microservicio.eureka.Configuration",
+      "sourceType": "com.zamora.microservicio.eureka.Configuration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "microservicioeurekas.value",
+      "type": "java.lang.String",
+      "sourceType": "com.zamora.microservicio.eureka.Configuration"
+    }
+  ],
+  "hints": []
+}
